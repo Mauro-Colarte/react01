@@ -1,0 +1,9 @@
+.navColor {
+    background-color: rgb(219, 163, 79) !important;
+}
+
+.nav {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}

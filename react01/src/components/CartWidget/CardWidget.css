@@ -1,0 +1,4 @@
+.nav-link svg{
+    display: flex;
+    flex-direction:column;
+}
