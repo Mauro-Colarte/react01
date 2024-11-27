@@ -5,7 +5,7 @@ export default function NavBar() {
     return (
 <nav className="navbar navbar-expand-lg bg-body-tertiary navColor">
     <div className="container-fluid ">
-        <a className="navbar-brand amarillo" href="#">McPizza</a>
+        <a className="navbar-brand amarillo" href="../../App.jsx">McPizza</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
         </button>
