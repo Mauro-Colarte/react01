@@ -30,7 +30,7 @@ const products = [
     category: "Pizza",
     img: "/public/img/pizza-1.jpg",
     stock: 1000,
-    description: "Descripcion de Iphone 12",
+    description: "Masa basica, con Queso Mozzarella abundante",
   },
   {
     id: "N°2",
@@ -39,7 +39,7 @@ const products = [
     category: "Pizza",
     img: "/public/img/pizza-2.jpg",
     stock: 1000,
-    description: "Descripcion de Samsung s21",
+    description: "Pizza de masa básica, tomates crudos, queso mozzarella fresco, albahaca fresca y aceite de oliva",
   },
   {
     id: "N°3",
@@ -48,7 +48,7 @@ const products = [
     category: "Pizza",
     img: "/public/img/pizza-3.jpg",
     stock: 50,
-    description: "Descripcion de Ipad",
+    description: "Masa basica, Queso Mozzarella y Cebolla",
   },
   {
     id: "N°4",
@@ -57,7 +57,7 @@ const products = [
     category: "Empanadas",
     img: "/public/img/empanadas-jyq.jpg",
     stock: 80,
-    description: "Descripcion de Ipad",
+    description: "Empenada rellena de jamon y Queso",
   },
   {
     id: "N°5",
@@ -66,7 +66,7 @@ const products = [
     category: "Pizza",
     img: "/public/img/pizza-4.jpg",
     stock: 1000,
-    description: "Descripcion de Samsung s21",
+    description: "Masa madre de pizza, sumado a Jamon y Morron",
   },
   {
     id: "N°6",
@@ -75,7 +75,7 @@ const products = [
     category: "Pizza",
     img: "/public/img/pizza-5.jpg",
     stock: 400,
-    description: "Descripcion de Samsung s21",
+    description: "Masa basica de pizza a la piedra, rucula y queso",
   },
   {
     id: "N°7",
@@ -84,7 +84,7 @@ const products = [
     category: "Empanada",
     img: "/public/img/Empanadas-carne.jpg",
     stock: 1000,
-    description: "Descripcion de Ipad",
+    description: "Empanada de carne Picada",
   },
   {
     id: "N°8",
@@ -93,7 +93,7 @@ const products = [
     category: "Empanada",
     img: "/public/img/empanadas-pollo.jpg",
     stock: 10,
-    description: "Descripcion de computer",
+    description: "Empanada rellena de Pollo cortado a cuchillo, más un poco de pimienta",
   },
 ];
 
